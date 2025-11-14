@@ -1,0 +1,35 @@
+
+---
+
+## 2️⃣ `.gitignore`
+
+Replace `.gitignore` with this:
+
+```gitignore
+# Virtual env
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / OS junk
+.DS_Store
+.vscode/
+.idea/
+
+# Model artifacts
+*.joblib
+*.pickle
+*.pkl
+*.pt
+*.bin
+
+# Logs / temp
+*.log
+*.tmp
+*.wav~ 
