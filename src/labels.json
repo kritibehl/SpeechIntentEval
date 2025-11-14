@@ -1,0 +1,6 @@
+{
+  "STOP_INTENT": 0,
+  "GO_INTENT": 1,
+  "ON_INTENT": 2,
+  "OFF_INTENT": 3
+}
