@@ -1,4 +1,4 @@
-# 🎙️ SpeechIntentEval — Tiny Speech Intent Classification & Evaluation
+# SpeechIntentEval — Tiny Speech Intent Classification & Evaluation
 
 Mini-project to simulate a Siri-style speech intent pipeline:
 1. Load short wake-word / command audio clips (e.g., “stop”, “go”, “on”, “off”).
@@ -8,7 +8,7 @@ Mini-project to simulate a Siri-style speech intent pipeline:
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ```bash
 git clone https://github.com/kritibehl/SpeechIntentEval.git
