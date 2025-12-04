@@ -22,7 +22,7 @@ SpeechIntentEval focuses on **pragmatic understanding**.
 
 ---
 
-# 🧭 Why this matters
+#  Why this matters
 
 Most current safety systems do one of two things:
 - **Over-refusal**: “I cannot assist with that.”
